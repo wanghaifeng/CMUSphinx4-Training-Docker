@@ -1,4 +1,5 @@
 环境：Mac OSX，v10.11.2；Homebrew已经安装好（http://brew.sh/）
+wordpress版: http://www.nsshell.com/archives/465
 
 [toc]
 # 准备
